@@ -5,13 +5,13 @@ Don't forget to text me if there's something I can do for you. I'm always with o
 <p align="center">
     <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
     <a href="https://www.linkedin.com/in/dev-jesus-junco/">
-        <img src="https://github.com/bcondict/bcondict/blob/master/assets/icons/linkedin.png" alt="linkedin" width="120" hight="50">
+        <img src="https://github.com/bcondict/bcondict/tree/main/assets/linkedin.png" alt="linkedin" width="120" hight="50">
     </a>
     <a href="https://www.instagram.com/coding.crist/">
-        <img src="https://github.com/bcondict/bcondict/blob/master/assets/icons/instagram.png" alt="instgram" width="120" hight="50">
+        <img src="https://github.com/bcondict/bcondict/tree/main/assets/instagram.png" alt="instagram" width="120" hight="50">
     </a>
     <a href="https://steamcommunity.com/profiles/76561199021557141/">
-        <img src="https://github.com/bcondict/bcondict/blob/master/assets/icons/steam.png" alt="steam" width="120" hight="50">
+        <img src="https://github.com/bcondict/bcondict/tree/main/assets/steam.png" alt="steam" width="120" hight="50">
     </a>
 </p>
 
