@@ -8,7 +8,7 @@ Don't forget to text me if there's something I can do for you. I'm always with o
         <img src="https://github.com/bcondict/bcondict/blob/main/assets/linkedin.png" alt="linkedin" width="120" hight="50">
     </a>
     <a href="https://www.instagram.com/coding.crist/">
-        <img src="https://github.com/bcondict/bcondict/blob/main/assets/instagram.png" alt="instagram" width="120" hight="50">
+        <img src="https://github.com/bcondict/bcondict/blob/main/assets/instagram.png" alt="instagram" width="120" hight="70">
     </a>
     <a href="https://steamcommunity.com/profiles/76561199021557141/">
         <img src="https://github.com/bcondict/bcondict/blob/main/assets/steam.png" alt="steam" width="120" hight="50">
