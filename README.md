@@ -20,7 +20,7 @@ import bcondict from 'profile';
 
 class About extends Me {
     const bcondict_skills = {
-        Pronouns: "he" | "Hin",
+        Pronouns: "he" | "Him",
         Knowledge: ["Javascript", "C", "python"],
         Learning: ["C#", "React.js", "Unity"]
     },
