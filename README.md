@@ -32,6 +32,8 @@ class Me extends bcondict {
     };
   }
 }
+
+const aboutMe = new Me();
 ```
 
 <div align="center">
