@@ -1,7 +1,9 @@
 # bcondict
+
 Hey! :wave: Here you'll found some about me, if you want to know more here you'll found some of my social media.
 
-Don't forget to text me if there's something I can do for you. I'm always with open arms. 
+Don't forget to text me if there's something I can do for you. I'm always with open arms.
+
 <p align="center">
     <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
     <a href="https://www.linkedin.com/in/dev-jesus-junco/">
@@ -43,4 +45,7 @@ const aboutMe = new Me();
     <div align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=bcondict&theme=dracula&margin-w=20)](https://github.com/bcondict/github-profile-trophy"/>
     </div>
+  <div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDAC&layout=compact&theme=vue&langs_count=6" alt="My github stats"/>
+  </div>
 </div>
