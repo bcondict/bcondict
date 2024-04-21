@@ -39,13 +39,13 @@ const aboutMe = new Me();
 ```
 
 <div align="center">
+    <div align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcondict&layout=compact&theme=vue&langs_count=6" alt="My github stats"/>
+    </div>
     <div href="https://github.com/bcondict/github-readme-stats"> 
         <img src="https://github-readme-stats.vercel.app/api?username=bcondict&&show_icons=true&theme=radical"/>
     </div>
     <div align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=bcondict&theme=dracula&margin-w=20)](https://github.com/bcondict/github-profile-trophy"/>
     </div>
-  <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcondict&layout=compact&theme=vue&langs_count=6" alt="My github stats"/>
-  </div>
 </div>
